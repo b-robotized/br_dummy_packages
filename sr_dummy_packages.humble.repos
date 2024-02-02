@@ -1,0 +1,5 @@
+repositories:
+  dummy_main_pkg:
+    type: git
+    url: git@github.com:StoglRobotics/sr_dummy_packages.git
+    version: dummy_main_pkg
