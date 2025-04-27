@@ -1,5 +1,5 @@
 repositories:
   dummy_main_pkg:
     type: git
-    url: git@github.com:b-robotized/br_dummy_packages.git
+    url: https://github.com/b-robotized/br_dummy_packages.git
     version: dummy_main_pkg
